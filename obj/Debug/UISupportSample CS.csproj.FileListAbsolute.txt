@@ -1,0 +1,22 @@
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\UISupportSample CS.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\UISupportSample CS.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.csprojResolveAssemblyReference.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.EnrollmentForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.MainForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Properties.Resources.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.VerificationForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.csproj.GenerateResource.Cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UISupportSample CS.exe
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UISupportSample CS.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\bin\Debug\UISupportSample CS.exe
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\bin\Debug\UISupportSample CS.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UISupportSample CS.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UI_Support.EnrollmentForm.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UI_Support.MainForm.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UI_Support.Properties.Resources.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UI_Support.VerificationForm.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp\UI Support\obj\Debug\UISupportSample CS.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp DPFP\UI Support\obj\Debug\UISupportSample CS.exe
+C:\Users\ian.malabanan\Desktop\ISOAP\CSharp DPFP\UI Support\obj\Debug\UISupportSample CS.pdb
